@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection Using Regression Model
-[credit-card-fraudulent-transaction-1024x567](https://github.com/user-attachments/assets/9ebd306f-3cfb-43f7-a44a-dd02dfc86cf6)
 
 Project Overview: 
 
